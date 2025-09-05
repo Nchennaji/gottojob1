@@ -482,7 +482,7 @@ nav[aria-label="breadcrumb"] {
 
 .navbar-nav .nav-link {
   display: inline-block;
-  color: var(--p-bg-color);
+  color: var(--custom-btn-bg-color);
   font-size: var(--menu-font-size);
   font-weight: var(--font-weight-medium);
   position: relative;
