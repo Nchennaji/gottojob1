@@ -1555,3 +1555,34 @@ nav[aria-label="breadcrumb"] {
   }
 }
 
+.job-title {
+    font-size: 28px;      /* make titles larger */
+    font-weight: 700;     /* make titles bold */
+    color: #333333;       /* optional: dark color for visibility */
+}
+
+.highlight-title {
+    font-size: 28px;      /* larger font */
+    font-weight: 700;     /* bold */
+    color: #333333;       /* optional: darker color for visibility */
+}
+
+.remote-badge {
+    background-color: #198754; /* green */
+    color: #fff;               /* white text */
+    font-weight: bold;
+    padding: 3px 8px;
+    border-radius: 12px;
+    text-transform: uppercase;
+    font-size: 12px;
+    display: inline-block;
+}
+.posted-date {
+    font-size: 14px;
+    color: #555;
+    margin-top: 5px;
+}
+
+
+
+
